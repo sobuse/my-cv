@@ -1,0 +1,126 @@
+body{
+    color:  #40514E;
+    margin: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family :   'Merriweather', serif;
+    
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-top: 50px;
+    color: #66bfbf;
+}
+h2 {font-family: Montserrat', sans-serif; font-size: 2.5rem ;
+margin: 50 auto 0 auto ; color: #66bfbf; padding-bottom: 10px;
+}
+
+h3{font-family:  'Montserrat', sans-serif;
+    color: #11999e}
+
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{ color: #eaf6f6;}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted  #eaf6f6  6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.topContaner
+{background-color: #e4f9f5; 
+    position: relative;
+    padding-top: 100px; line-height: 90px;
+}
+.intro{
+    width: 30%; margin: auto;
+}
+.middle-container{
+    margin: 100px 0;
+    
+}
+.copy{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0 ;
+}
+
+.bottom-container {
+background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+.btn {
+	background-color:#2dabf9;
+	border-radius:8px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background-color:#0688fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}
+.pro {
+    text-decoration: underline;
+    background-color: gold;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.topCloud {position: absolute;
+right: 300px;
+top: 40px;}
+
+.profile{
+
+}
+
+.me{
+width: 25%;
+
+}
+.skills{
+
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+
+}
+.giphy{width: 25%;float: left;margin-right: 30px;
+
+}
+.giphy2{width: 25%;float: right;margin-right: 30px;
+
+
+}
+.contact-me{
+    width: 40%;
+     margin: 40px auto 60px;
+
+}
